@@ -1,0 +1,43 @@
+body {
+ margin: 30px;
+}
+
+.work-header {
+ color: #7d97ad;
+}
+
+.container {
+ margin-top: 20px;
+}
+
+header {
+ color: #2d3c49;
+}
+
+.name {
+ font-weight: lighter;
+}
+
+hr.line-break {
+ border-width: 5px;
+ width: 100%;
+}
+
+.personal-info {
+ text-align: right;
+ }
+
+.main-image {
+ padding: 0px;
+ margin: 0px;
+ min-width: 100%;
+ }
+
+.app {
+ text-align: center;
+}
+
+.pic {
+ margin-left: auto;
+ margin-right: auto;
+}
